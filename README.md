@@ -3,7 +3,8 @@ Keiko & Gino 是一款双人合作的冒险解谜类游戏，玩家扮演的Keik
 
 ## 2019 心动网络独立营作品
 ## 主题：陪伴 Accompany
-
+## 预览
+![avatar](https://img.tapimg.com/market/images/d57bd24dc4c69fbcf0abd98d5f65d3cb.png)
 ### 主策划：
 ### 关卡策划：
 ### 美术：
